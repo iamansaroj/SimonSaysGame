@@ -1,6 +1,6 @@
-# ColorBeat: Memory Pattern Game
+# Simon Says Game: Memory Pattern Game
 
-Welcome to ColorBeat – a simple and captivating memory pattern game!
+Welcome to Simon Says Game – a simple and captivating memory pattern game!
 
 ## Description
 
